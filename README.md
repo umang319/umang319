@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a developer actively learning modern DevOps practices including automated CI/CD workflows and cloud deployments.
+I’m a developer with hands-on experience in modern DevOps practices, including automated CI/CD workflows and cloud-ready deployment pipelines.
 
 ### Skills & Learning Journey
 
@@ -8,7 +8,7 @@ I’m a developer actively learning modern DevOps practices including automated 
   Completed the official **GitHub Skills – Test with Actions** course  
   Repo: https://github.com/umang319/skills-test-with-actions  
 
-- Currently exploring deeper automated testing, build pipelines, and code quality workflows.
+- Gained practical experience with automated testing, build pipelines, and code quality workflows using GitHub Actions.
 
 <!--
 **umang319/umang319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
